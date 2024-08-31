@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain
+langchain_google_genai
+faiss-cpu
+langchain_groq
+langchain_community
+groq
+beautifulsoup4
